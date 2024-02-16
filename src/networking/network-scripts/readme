@@ -1,0 +1,10 @@
+Folder contains both configuration scripts to build the needed network architecture and scripts that performs experiments.
+
+ These script are exemple of missions that can be triggered by launching scripts
+
+Most of the time, they consist in launching network capture waiting the right time and stopping them
+They can also imply lauching choreography and perturbation trafic
+
+The synchronisation is not handled. The shell "sleep" function and specific indications are used to get a pseudo-synchronisation.
+
+Yet, margins of several seconds should be taken
