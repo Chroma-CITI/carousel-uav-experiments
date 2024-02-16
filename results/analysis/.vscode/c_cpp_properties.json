@@ -1,0 +1,42 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/theotime/simulation_ws/install/vehicle_gateway_betaflight/include/**",
+        "/home/theotime/simulation_ws/install/vehicle_gateway/include/**",
+        "/home/theotime/simulation_ws/install/uwb_ros_msgs/include/**",
+        "/home/theotime/simulation_ws/install/simple_pubsub/include/**",
+        "/home/theotime/simulation_ws/install/ros_net_sim_interfaces/include/**",
+        "/home/theotime/simulation_ws/install/ros_ign_interfaces/include/**",
+        "/home/theotime/simulation_ws/install/ros_gz_sim/include/**",
+        "/home/theotime/simulation_ws/install/ros_gz_bridge/include/**",
+        "/home/theotime/simulation_ws/install/ros_gz_interfaces/include/**",
+        "/home/theotime/simulation_ws/install/px4_ros2_cpp/include/**",
+        "/home/theotime/simulation_ws/install/px4_msgs/include/**",
+        "/home/theotime/simulation_ws/install/obstacle_detector/include/**",
+        "/home/theotime/simulation_ws/install/micro_ros_agent/include/**",
+        "/home/theotime/simulation_ws/install/micro_ros_msgs/include/**",
+        "/home/theotime/simulation_ws/install/domain_bridge/include/**",
+        "/home/theotime/simulation_ws/install/actuator_msgs/include/**",
+        "/home/theotime/experiment_ws/install/uwb_ros_msgs/include/**",
+        "/home/theotime/experiment_ws/install/px4_msgs/include/**",
+        "/home/theotime/experiment_ws/install/plotjuggler_msgs/include/**",
+        "/home/theotime/experiment_ws/install/plotjuggler/include/**",
+        "/home/theotime/experiment_ws/install/ls2n_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/theotime/gits/carousel-uav-experiments/src/offboard_control/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
